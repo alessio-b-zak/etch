@@ -265,3 +265,10 @@ footer#footer {
     color: #949494;
     margin: 40px 0;
 }
+
+code.has-jax {
+    -webkit-font-smoothing: antialiased;
+    background: inherit !important;
+    border: none !important;
+    font-size: 100%;
+}
